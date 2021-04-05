@@ -1,0 +1,12 @@
+1
+likes(Ziggy, Robin)
+9
+cat(x) & fish(y) => likes(x, y)
+cat(x) & rodent(y) => likes(x, y)
+cat(x) & bird(y) => likes(x, y)
+flies(x) & feathers(x) => bird(x)
+cat(Ziggy)
+fish(Sebastian)
+rodent(Mickey)
+flies(Robin)
+feathers(Robin)

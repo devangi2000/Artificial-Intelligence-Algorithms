@@ -1,0 +1,14 @@
+3
+AtRisk(Bob)
+LivesWith(Alice,Bob)
+Take(Bob,VitC)
+9
+HighSugar(x) & HighBP(x) => AtRisk(x)
+AtRisk(x) & LivesWith(x,y) => AtRisk(y)
+Take(Alice,x) => Take(Bob,x)
+Take(Bob,x) => Take(Alice,x)
+HighSugar(Alice)
+HighBP(Bob)
+HighSugar(Bob)
+Take(Alice,VitC)
+~AtRisk(Alice)

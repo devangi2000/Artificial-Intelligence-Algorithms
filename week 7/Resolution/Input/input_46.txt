@@ -1,0 +1,17 @@
+ 2
+Num(Ten)
+Num(Eleven)
+13
+Num(One)
+Num(Two)
+Num(One) & Num(Two) => Num(Three)
+Num(One) & Num(Three) => Num(Four)
+Num(One) & Num(Four) => Num(Five)
+Num(One) & Num(Five) => Num(Six)
+Num(One) & Num(Six) => Num(Seven)
+Num(One) & Num(Seven) => Num(Eight)
+Num(One) & Num(Eight) => Num(Nine)
+Num(One) & Num(Nine) => Num(Ten)
+Z(A)
+Y(B)
+X(C)

@@ -1,0 +1,7 @@
+2
+Evil(John)
+Happy(John)
+3
+~King(x) | ~Greedy(x) | Evil(x)
+King(John)
+Greedy(x)

@@ -1,0 +1,18 @@
+6
+A(Alice)
+~A(Alice)
+Z(Zig)
+~Z(Zig)
+G(Golf)
+~G(Good)
+10
+A(x) => B(x)
+B(x) => C(x)
+C(x) => D(x)
+D(x) => E(x)
+E(x) => A(x)
+G(g)
+H(h)
+I(i)
+J(j)
+X(x)

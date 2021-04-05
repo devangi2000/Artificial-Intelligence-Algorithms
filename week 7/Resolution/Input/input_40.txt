@@ -1,0 +1,6 @@
+2
+Female(Alice,Nina)
+Male(Bob)
+2
+~Female(x,y) => Male(y)
+~Male(Po)

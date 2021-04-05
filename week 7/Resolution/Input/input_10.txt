@@ -1,0 +1,6 @@
+2
+~Alive(Alice)
+Alive(Bob)
+2
+Sick(x) => Alive(x)
+~Sick(x) => Alive(x)

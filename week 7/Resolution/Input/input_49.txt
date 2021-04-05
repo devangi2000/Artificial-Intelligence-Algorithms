@@ -1,0 +1,12 @@
+2
+Cure(Hehe)
+Cure(Xixi)
+8
+Sick(Hehe)
+Eat(Med,Xixi)
+Sick(x) & Eat(Med,x) => Cure(x)
+Sick(x) => Shop(Med)
+Shop(Med) & Sick(x) => Eat(Med,x)
+Dumb(Kiran)
+Crazy(Kiran)
+Sick(Kiran)

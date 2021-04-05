@@ -1,0 +1,12 @@
+3
+Sick(Alice,Flu)
+Sick(Bob,Shingles)
+Sick(Cate,Shingles)
+7
+Sick(x,a) & Contagious(a) & Contact(x,y) => Sick(y,a)
+Contagious(Flu)
+~Contagious(Shingles)
+Sick(Bob,Flu)
+Sick(Alice,Shingles)
+~Contact(Bob,Alice)
+Contact(Alice,Cate)

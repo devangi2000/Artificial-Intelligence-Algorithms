@@ -1,0 +1,7 @@
+2
+Female(Alice)
+Male(Bob)
+3
+Female(x) | Human(x)
+Male(y) | Human(y)
+~Human(z)

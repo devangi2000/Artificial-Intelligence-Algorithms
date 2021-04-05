@@ -1,0 +1,11 @@
+2
+B(John)
+B(Alice)
+7
+~A(John)
+~B(Bob)
+~C(John)
+~A(x) & ~B(x) => C(x)
+Z(Whole)
+Y(None)
+Blah(Bluh)

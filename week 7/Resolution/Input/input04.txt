@@ -1,0 +1,5 @@
+1
+B(John)
+2
+A(x)
+~A(x) | B(John)

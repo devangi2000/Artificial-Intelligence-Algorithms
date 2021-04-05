@@ -1,0 +1,13 @@
+3
+Avoid(Alice,Bob)
+AtRisk(Che)
+Avoid(Bob,Alice)
+8
+Take(x,Zn) => AtRisk(x)
+Take(y,Ox) => ~AtRisk(y)
+AtRisk(y) => Avoid(y,x)
+Avoid(x,y) => Avoid(y,x)
+Take(Alice,x) => ~Take(Bob,x)
+Take(Che,Ox) => Take(Alice,Ox)
+~Take(Che,Ox)
+Take(Alice,Zn)

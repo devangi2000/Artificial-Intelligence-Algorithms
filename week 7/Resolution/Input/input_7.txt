@@ -1,0 +1,10 @@
+2
+Alert(Alice)
+Alert(Bob)
+6
+Follow(x,y) & Take(y,z) => Take(x,z)
+Take(x,WolfBean) => Take(x,Hippomax)
+Take(x,JediPill) & Take(x,Hippomax) => Alert(x)
+Follow(Bob,Alice)
+Take(Alice,JediPill)
+Take(Bob,WolfBean)

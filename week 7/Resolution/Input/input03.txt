@@ -1,0 +1,10 @@
+1
+Criminal(West)
+7
+~American(x) | ~Weapon(y) | ~Sells(x,y,z) | ~Enemy(z,America) | Criminal(x)
+Owns(Nono,M1)
+Missile(M1)
+~Missile(x) | ~Owns(Nono,x) | Sells(West,x,Nono)
+~Missile(x) | Weapon(x)
+Enemy(Nono,America)
+American(West)

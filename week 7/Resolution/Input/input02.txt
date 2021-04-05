@@ -1,0 +1,10 @@
+2
+Ancestor(Liz,Billy)
+Ancestor(Liz,Joe)
+6
+Mother(Liz,Charley)
+Father(Charley,Billy)
+~Mother(x,y) | Parent(x,y)
+~Father(x,y) | Parent(x,y)
+~Parent(x,y) | Ancestor(x,y)
+~Parent(x,y) | ~Ancestor(y,z) | Ancestor(x,z)

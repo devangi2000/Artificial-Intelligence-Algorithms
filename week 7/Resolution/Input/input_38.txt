@@ -1,0 +1,14 @@
+4
+Friend(Shuke,Beita)
+Friend(Shuke,Jerry)
+~Friend(Tom,Jerry)
+~Friend(Beita,Jerry)
+8
+Mouse(Shuke)
+Mouse(Beita)
+Mouse(Jerry)
+Cat(Tom)
+Mouse(x) & Mouse(y) => Friends(x,y)
+Cat(x) & Mouse(y) => ~Friends(x,y)
+Friends(Kiran, Adam)
+Friends(Adam, Krishna)

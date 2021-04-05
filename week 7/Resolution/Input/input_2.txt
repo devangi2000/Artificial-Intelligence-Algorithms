@@ -1,0 +1,10 @@
+2
+Alert(Alice)
+Alert(Bob)
+6
+Take(x,Ca) => Take(x,VitD)
+Take(x,VitD) => Take(x,Ca)
+Take(x,Ca) & Take(x,VitC) => Alert(x)
+Take(Alice,VitC)
+Take(Bob,VitD)
+Take(Bob,VitC)

@@ -1,0 +1,12 @@
+3
+A(Alice,Bob)
+G(Golf)
+~G(Good)
+7
+A(x,y) => B(x,z)
+B(x,y) => C(x,z)
+C(x,y) => D(x,z)
+D(x,y) => E(x,z)
+E(x,y) => A(x,z)
+G(g)
+~G(Silver)

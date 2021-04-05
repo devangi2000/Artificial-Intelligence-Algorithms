@@ -1,0 +1,8 @@
+2
+~Water(A,B,C)
+Water(A,B,C)
+4
+Heshang(A)
+Heshang(B)
+Heshang(C)
+Heshang(x) & Heshang(y) & Heshang(z) => ~Water(x,y,z)

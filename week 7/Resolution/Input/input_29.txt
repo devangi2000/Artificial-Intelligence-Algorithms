@@ -1,0 +1,10 @@
+2
+Children(Alice,Bob,Charlie)
+Children(Charlie,Bob,Alice)
+6
+Children(x,y,z)
+Dumb(kdjfls)
+Nope(lkdjf)
+Sad(dklfj)
+Haha(dlkfj)
+Edkjf(dkfa)

@@ -1,0 +1,8 @@
+2
+Classmate(Alice,Bob)
+Classmate(Bob,Alice)
+4
+Classmate(x,y) => Classmate(y,x)
+Hoffman(y)
+Doofus(x)
+Classmate(Alice,Bob)

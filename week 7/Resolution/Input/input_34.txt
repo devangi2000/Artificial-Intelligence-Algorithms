@@ -1,0 +1,11 @@
+3
+Water(A,B)
+Water(B,C)
+Water(A,C)
+6
+Heshang(A)
+Heshang(B)
+Heshang(C)
+Heshang(x) & Heshang(y) => Water(x,y)
+Water(D,Q)
+Water(E,Z)
